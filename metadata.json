@@ -1,0 +1,6 @@
+{
+  "name": "CalcLab - Modern Professional Calculator",
+  "description": "A modern, professional, responsive calculator featuring standard and scientific calculation modes, safe expression evaluation, memory functions, and history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
